@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 2.0.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: appleWifi
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2015 by Your Company
+
+# these should not be edited
+name: appleWifi
+moduleid: com.restado.appleWifi
+guid: 1a479d4f-7083-4883-81f8-378d6709a0b4
+platform: iphone
+minsdk: 3.5.1.RC
